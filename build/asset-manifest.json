@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.039bf95e.css",
-    "main.js": "/static/js/main.df6ff96a.js",
+    "main.js": "/static/js/main.50422fbc.js",
     "static/media/Hello.gif": "/static/media/Hello.d93720933c608f6178fb.gif",
-    "static/media/Preshit_Churi_Resume.pdf": "/static/media/Preshit_Churi_Resume.0383114e7ca3426db831.pdf",
+    "static/media/Preshit_Churi_Resume.pdf": "/static/media/Preshit_Churi_Resume.744dd48bb1f0f629e4d2.pdf",
     "static/media/Azure.png": "/static/media/Azure.02b84dc1bfe926834de4.png",
     "static/media/tensorflow.png": "/static/media/tensorflow.f66fbbfb0cbcf7aeb3bc.png",
     "static/media/python.png": "/static/media/python.14a30eb0930bf1118521.png",
@@ -26,10 +26,10 @@
     "static/media/pytorch.svg": "/static/media/pytorch.9b23944569ff50afb0c75a2284cc6ff5.svg",
     "static/media/linkedin.svg": "/static/media/linkedin.4f00d78f67f451cf01173f7418aa186f.svg",
     "main.039bf95e.css.map": "/static/css/main.039bf95e.css.map",
-    "main.df6ff96a.js.map": "/static/js/main.df6ff96a.js.map"
+    "main.50422fbc.js.map": "/static/js/main.50422fbc.js.map"
   },
   "entrypoints": [
     "static/css/main.039bf95e.css",
-    "static/js/main.df6ff96a.js"
+    "static/js/main.50422fbc.js"
   ]
 }
