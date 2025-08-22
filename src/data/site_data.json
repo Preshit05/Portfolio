@@ -1,0 +1,40 @@
+{
+    "header": {
+        "header_title1": "<Preshit ",
+        "header_title2": " Churi/>"
+    },
+    "hero": {
+        "greetings": "Hello",
+        "name": "Preshit Churi",
+        "role": "AI Data Specialist | Aspiring Product Leader",
+        "years_of_experience": "6 Years of Experience",
+        "linkedin_url": "https://www.linkedin.com/in/preshit-churi-907872217/",
+        "whatsApp_url": "https://api.whatsapp.com/send/?phone=%2B12173814709&text=Hello+Preshit",
+        "instagram_url": "https://www.instagram.com/preshit_churi"
+    },
+    "about": {
+        "title": "About Me",
+        "msg1": "Hi there! I’m Preshit Churi, an AI Data Specialist and aspiring product leader passionate about building next-generation social technologies that connect people beyond screens and distance.",
+        "msg2": "At Meta, I’ve worked on immersive AR/VR speech recognition systems and multimodal AI expansion, delivering user-centric solutions through cross-functional collaboration. My background blends technical depth in AI/ML, AR/VR, and data analytics with strong skills in product management, research, and design.",
+        "msg3": "I thrive in fast-paced environments, leveraging data-driven insights and agile execution to scale impactful products.",
+        "msg4": "Currently, I’m focused on advancing my expertise in product development, cloud technologies, and AI-powered user experiences—driving innovation at the intersection of technology and people.",
+        "main_skill": "Here are my main skills:"
+    },
+    "contact": {
+        "title": "Contact Me",
+        "title1": "Ready to get started on your project?",
+        "title2": "Contact me now for a Free consultation.",
+        "emailMsg": "Hello@preshitchuri95@gmail.com",
+        "mailAddr": "mailto:Hello@preshitchuri95@gmail.com",
+        "phoneNumber": "(+1) 217-381-4709",
+        "phoneLink": "tel:+12173814709"
+    },
+    "footer": {
+        "portfolioURL": "https://ayush-portfolio-48d81.web.app/",
+        "portfolioName": "Preshit Churi Portfolio",
+        "footer_text": "This Website was made with",
+        "linkedin_url": "https://www.linkedin.com/in/preshit-churi-907872217/",
+        "whatsApp_url": "https://api.whatsapp.com/send/?phone=%2B12173814709&text=Hello+Preshit",
+        "instagram_url": "https://www.instagram.com/preshit_churi"
+    }
+}
