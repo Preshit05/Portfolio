@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.039bf95e.css",
+    "main.js": "/static/js/main.df6ff96a.js",
+    "static/media/Hello.gif": "/static/media/Hello.d93720933c608f6178fb.gif",
+    "static/media/Preshit_Churi_Resume.pdf": "/static/media/Preshit_Churi_Resume.0383114e7ca3426db831.pdf",
+    "static/media/Azure.png": "/static/media/Azure.02b84dc1bfe926834de4.png",
+    "static/media/tensorflow.png": "/static/media/tensorflow.f66fbbfb0cbcf7aeb3bc.png",
+    "static/media/python.png": "/static/media/python.14a30eb0930bf1118521.png",
+    "static/media/powerbi.png": "/static/media/powerbi.b260c6e6302149bb954b.png",
+    "static/media/DataBricks.png": "/static/media/DataBricks.4efe7504379a6460bc23.png",
+    "static/media/tableau.png": "/static/media/tableau.1ba6fba257cd1bae6e4b.png",
+    "static/media/Figma.png": "/static/media/Figma.c7c18904f0af6898c317.png",
+    "static/media/AWS1.png": "/static/media/AWS1.316da603b6d42393e022.png",
+    "static/media/unity.svg": "/static/media/unity.a8b5a24c925d10c1ec0c8ee4bbe925aa.svg",
+    "static/media/illustration.svg": "/static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
+    "static/media/mysql-icon.svg": "/static/media/mysql-icon.e5a509a5d3ca7443ae6ccf379181381d.svg",
+    "static/media/node-icon.svg": "/static/media/node-icon.3dc364b8e9beb3561620274aea4f0844.svg",
+    "static/media/typescript-icon.svg": "/static/media/typescript-icon.17d5e87eac2c9d1dc722ce1e0b60d5df.svg",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.459dad86534ca5699520ed770f3ce605.svg",
+    "static/media/react-icon.svg": "/static/media/react-icon.f1484e295933af0e748d6a01b05a8361.svg",
+    "index.html": "/index.html",
+    "static/media/instagram.svg": "/static/media/instagram.e9d6b5424508db6397a027a4e0fe0dd0.svg",
+    "static/media/phone-icon.svg": "/static/media/phone-icon.91617f27ac814ef5f29b533ab3d256ec.svg",
+    "static/media/email-icon.svg": "/static/media/email-icon.a83578f914460e952501546655b76165.svg",
+    "static/media/pytorch.svg": "/static/media/pytorch.9b23944569ff50afb0c75a2284cc6ff5.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.4f00d78f67f451cf01173f7418aa186f.svg",
+    "main.039bf95e.css.map": "/static/css/main.039bf95e.css.map",
+    "main.df6ff96a.js.map": "/static/js/main.df6ff96a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.039bf95e.css",
+    "static/js/main.df6ff96a.js"
+  ]
+}
